@@ -10,4 +10,5 @@ Most common libraries: pandas, sklearn, matplotlib, seaborn.\
 The chosen  models: LinearRegression, RandomForestRegressor, GradientBoostingRegressor
 
 Example of visualization:
-![image](https://github.com/kioneta/ML_first_steps/assets/110675077/e1178627-a22b-4ce2-8765-365477fbe850)
+![image](https://github.com/kioneta/ML_first_steps/assets/110675077/bac018c9-3020-4a7c-84e9-a4bfa2fd31ff)
+
