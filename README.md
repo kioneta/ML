@@ -1,7 +1,7 @@
 # ML_first_steps
 You can find some basic study projects for ML. Most common libraries: pandas, sklearn, matplotlib.\
 The projects: CatnDogs, Iris_dec_tree and Titanic are done the same way. Most revealing of them is a Titanic dataset.\
-Interesting things that you can find: cross validation for training and finding max_depth for Decision Tree, calculation precision and recall scores, ROC AUC.
+Interesting things that you can find: cross validation for training, finding max_depth for Decision Tree, calculation precision and recall scores, ROC AUC.\
 Exmaple of vizualization: ![image](https://github.com/kioneta/ML_first_steps/assets/110675077/660c1b3a-1547-4597-8a79-b3be105b70da)
 
 # Video_Game_Sales
